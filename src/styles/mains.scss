@@ -16,6 +16,7 @@
 
 * {
   font-family: "Montserrat";
+  background-color: black;
 }
 
 body {
@@ -43,8 +44,8 @@ body {
 .primary-btn {
   margin: 10px;
   padding: 10px;
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
   border: 0px;
   transition: all 0.2s ease-in-out;
   text-decoration: none;

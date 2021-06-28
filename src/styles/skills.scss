@@ -7,6 +7,7 @@
   h1 {
     font-size: 3rem;
     line-height: 20px;
+    color: white;
   }
 
   .skills-grid {
@@ -16,6 +17,7 @@
     grid-gap: 20px;
     @include media(">=phone", "<lgphone") {
       grid-template-columns: 1fr;
+      color: white;
     }
     @include media(">=lgphone", "<tablet") {
       grid-template-columns: 1fr;

@@ -28,6 +28,7 @@
     h1 {
       font-size: 3rem;
       line-height: 20px;
+      color: white;
       @include media(">=tablet", "<desktop") {
         text-align: center;
       }
