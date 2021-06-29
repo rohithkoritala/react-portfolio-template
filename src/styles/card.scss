@@ -8,23 +8,27 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  background-color: transparent !important;
 
   .content {
     font-family: "Open Sans";
     text-align: center;
     padding: 10px;
     opacity: 0;
+    background-color: transparent !important;
     transition: all 500ms ease-in-out;
     transform: translate(0, 20px);
     cursor: pointer;
     h1 {
       font-size: 14px;
       color: white;
+      background-color: transparent !important;
     }
     p {
       font-size: 10px;
       color: white;
       margin-bottom: 20px;
+      background-color: transparent !important;
     }
 
     .btn {
