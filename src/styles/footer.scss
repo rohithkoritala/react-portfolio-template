@@ -5,14 +5,19 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  color: white;
 
+  
   h1 {
     font-size: 3rem;
     line-height: 20px;
+    color: white;
   }
   h2 {
     font-size: 1.5rem;
     overflow: hidden;
+    color: white;
+
     @include media(">=phone", "<lgphone") {
       display: none;
     }

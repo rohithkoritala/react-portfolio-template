@@ -35,8 +35,10 @@
       }
     }
     p {
+      color: white;
       @include media(">=tablet", "<desktop") {
         text-align: center;
+        
       }
     }
   }
