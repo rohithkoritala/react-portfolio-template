@@ -138,7 +138,7 @@ export default {
     {
       img: htmlIcon,
       para:
-        "HTML5 along with CSS3",
+        "HTML5 along w/ CSS3",
     },
     {
       img: adobeIcon,
