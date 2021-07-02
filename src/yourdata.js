@@ -92,12 +92,12 @@ export default {
     {
       title: "Relational Database Design", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Utilized & wrote SQL queries to build a Yelp database from scratch and develop a recommendation model using item-based collaborative filtering.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://data.whicdn.com/images/301115566/original.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/rohithkoritala/SQL-commands-recommendation",
     },
 
     /*
@@ -181,7 +181,7 @@ export default {
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Ready For New Challenges",
+  promotionHeading: "Open to Work",
   promotionPara:
     "Although experienced in a couple of technologies, I still consider myself a beginner and I actively try to be more well-versed in these products. I am always ready to learn more and also would be ready to collaborate on projects and other ventures alike.",
   // End Promotion Section -----------------
